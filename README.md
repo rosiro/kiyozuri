@@ -28,4 +28,5 @@ example
 ## config.yaml
 ## templates 
 ## source 
-## 
+supportt markdown, text-file, html-file and Perl script 
+
