@@ -9,9 +9,21 @@ create static websites.
 supportt markdown, text-file, html-file and Perl script
 
 ## command
-    $ perl kiyozuri.pl init // generate config.yaml mkdir tempaltes,source
-    $ perl kiyozuri.pl build // build. markdown file to static files. generate /public/ dir
-    $ perl kiyozuri.pl server // webserver
+    // generate config.yaml mkdir tempaltes,source
+    $ perl kiyozuri.pl init 
+    
+    // build. markdown file to static files. generate /public/ dir
+    $ perl kiyozuri.pl build
+    
+    // webserver
+    $ perl kiyozuri.pl server 
+    
+    // search
+    $ perl kiyozuri.pl search "hoge"
+    
+    // replace
+    $ perl kiyozuri.pl replace "hoge" "moge"
+    
 
 ## Structure
 example
