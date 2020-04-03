@@ -10,7 +10,7 @@ supportt markdown, text-file, html-file and Perl script
 
 ## command
     $ perl kiyozuri.pl init // generate config.yaml mkdir tempaltes,source
-    $ perl kiyozuri.pl build // build html static files
+    $ perl kiyozuri.pl build // build. markdown file to static files. generate /public/ dir
     $ perl kiyozuri.pl server // webserver
 
 ## Structure
@@ -34,6 +34,15 @@ example
             index.md 
             fish.md 
             beef.md 
+    /public/ 
+        index.html 
+        /perl/ 
+            index.html 
+            perl.html 
+        /food/ 
+            index.html 
+            fish.html 
+            beef.html 
 
 ## config.yaml
 ## templates 
