@@ -9,11 +9,18 @@ create static websites.
 supportt markdown, text-file, html-file and Perl script
 
 ## command
+    $ perl kiyozuri.pl init // generate config.yaml mkdir tempaltes,source
+    $ perl kiyozuri.pl build // build html static files
+    $ perl kiyozuri.pl server // webserver
 
 ## Structure
 example
 
+
     config.yaml 
+    kiyozuri.pl 
+    /lib/ 
+        kiyozuri.pm 
     /templates/ 
         index.tmpl 
         categorylist.tmpl 
