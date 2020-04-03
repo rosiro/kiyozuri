@@ -2,6 +2,9 @@
 Kiyozuri 
 Open-Source Content Management System.  
 create static websites.  
+ - Compress HTML and CSS,javascript.
+ - Static Exporting
+ - majika
 # Formats
 supportt markdown, text-file, html-file and Perl script
 
@@ -29,4 +32,6 @@ example
 ## templates 
 ## source 
 supportt markdown, text-file, html-file and Perl script 
+## Converter
+
 
