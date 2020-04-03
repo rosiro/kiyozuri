@@ -6,11 +6,11 @@ example
 
     config.yml 
     /templates/ 
-        homepage.tmpl 
+        index.tmpl 
         categorylist.tmpl 
         singlepage.tmpl 
     /source/ 
-        homepage.md 
+        index.md 
         /perl/ 
             index.md 
             perl.md 
