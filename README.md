@@ -1,10 +1,12 @@
 # kiyozuri
-Kiyozuri | Open-Source Content Management System
+Kiyozuri 
+Open-Source Content Management System.  
+create static websites.  
 
 ## Directory
 example
 
-    config.yml 
+    config.yaml 
     /templates/ 
         index.tmpl 
         categorylist.tmpl 
@@ -18,3 +20,7 @@ example
             index.md 
             fish.md 
             beef.md 
+
+## config.yaml
+## template 
+## source 
