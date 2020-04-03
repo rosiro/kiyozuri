@@ -2,8 +2,12 @@
 Kiyozuri 
 Open-Source Content Management System.  
 create static websites.  
+# Formats
+supportt markdown, text-file, html-file and Perl script
 
-## Directory
+## command
+
+## Structure
 example
 
     config.yaml 
@@ -22,5 +26,6 @@ example
             beef.md 
 
 ## config.yaml
-## template 
+## templates 
 ## source 
+## 
