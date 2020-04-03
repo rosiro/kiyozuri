@@ -15,5 +15,6 @@ example
             index.md 
             perl.md 
         /food/ 
+            index.md 
             fish.md 
             beef.md 
