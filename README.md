@@ -33,6 +33,10 @@ example
     kiyozuri.pl 
     /lib/ 
         kiyozuri.pm 
+        /kiyozuri/ 
+    /db/ 
+       /file/ 
+       /sql/ 
     /templates/ 
         index.tmpl 
         categorylist.tmpl 
